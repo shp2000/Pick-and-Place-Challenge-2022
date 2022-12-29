@@ -1,11 +1,11 @@
 # Pick and Place Challenge 2022
 ### Date Modified: 12/15/2022
 
-[Results Video](https://youtu.be/c8lQ_Ar09lc)
+[Video](https://youtu.be/c8lQ_Ar09lc)
 
-[Final project report](/labs/final/Final_Project.pdf)
+[Report](/labs/final/Final_Project.pdf)
 
-[Final project code](/labs/final/final.py)
+[Code](/labs/final/final.py)
 
 # Subdirectory Structure:
 - `core`: contains support code we provide to you, such as helper functions and interfaces for interacting with the robot (either simulated or real!)
