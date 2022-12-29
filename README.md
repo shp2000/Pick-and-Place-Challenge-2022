@@ -1,7 +1,7 @@
 # Pick and Place Challenge 2022
 ### Date Modified: 12/15/2022
 
-[Results Video](https://https://youtu.be/c8lQ_Ar09lc)
+[Results Video](https://youtu.be/c8lQ_Ar09lc)
 
 [Final project report](/labs/final/Final_Project.pdf)
 
